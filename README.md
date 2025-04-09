@@ -1,4 +1,4 @@
-resume_scorer_ai/
+```resume_scorer_ai/
 ├── data/
 │   ├── raw/                # Original resumes and job descriptions
 │   ├── processed/          # Cleaned and preprocessed data
@@ -16,3 +16,4 @@ resume_scorer_ai/
 ├── requirements.txt        # List of project dependencies
 ├── README.md               # Project overview and setup instructions
 └── .gitignore              # Files and directories to ignore in Git
+```
